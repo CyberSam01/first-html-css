@@ -1,0 +1,51 @@
+body {
+    
+}
+
+header {
+    background-color: #588C94;
+    text-align: center;
+    padding: 25px 0;
+    margin: auto;
+}
+
+footer {
+    background-color: #1D3C41;
+    color: white;
+    text-align: center;
+}
+
+main {
+    width: 600px;
+    color: grey;
+    text-align: center;
+    padding: 25px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 48px;
+    color: white;
+}
+
+h2 {
+     font-size: 36px;
+}
+
+h3 {
+     font-size: 28px;
+}
+
+p {
+    font-size: 21px;
+}
+
+.columns {
+    width: 800px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.column {
+    padding: 10px;
+}
